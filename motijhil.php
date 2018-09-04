@@ -152,6 +152,7 @@ th {
 	background-color:#4CAF50;
 	color:#fff;
 }
+	
 .pagination{
 	margin-top:30px;
 	margin-left:150px;
